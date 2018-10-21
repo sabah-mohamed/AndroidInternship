@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Internship</string>
+    <string name="lgn_email">Enter your email</string>
+    <string name="lgn_pass">Enter your password</string>
+    <string name="conf_pass">Confirm your password</string>
+    <string name="register_btn">Not a member yet? Register</string>
+    <string name="login_btn">Already a member? Login</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="lgn_btn">Login</string>
+    <string name="reg_btn">Register</string>
+</resources>
